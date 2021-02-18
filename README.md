@@ -1,7 +1,5 @@
 # go-whosonfirst-index-csv
 
-Work in progress.
+## Important
 
-## See also
-
-* https://github.com/whosonfirst/go-whosonfirst-index
+This package is no longer maintained.
